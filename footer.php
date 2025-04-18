@@ -63,7 +63,10 @@
 								<!-- Footer About Start -->
 								<div class="footer-about">
 									<figure>
-										<img src="images/footer-logo.svg" alt="">
+										<img src="images/logo.webp" alt="" style="width: 100%;
+    background: white;
+    padding: 15px;
+    border-radius: 7px;">
 									</figure>
 									<p>Green Energy is a long established fact that a reader will be distracted by the readable content of a page when.</p>
 								</div>
@@ -86,11 +89,26 @@
 								<div class="footer-links">
 									<h2>Quick Links</h2>
 									<ul>
-										<li><a href="#">Home</a></li>
-										<li><a href="#">About Us</a></li>
-										<li><a href="#">Services</a></li>
-										<li><a href="#">Blog</a></li>
-										<li><a href="#">Contact Us</a></li>
+										<li><a href="./index.php">Home</a></li>
+										<li><a href="./about.php">About Us</a></li>
+										<li><a href="./service.php">Services</a></li>
+										<li><a href="./testimonial.php">Testimonials</a></li>
+										<li><a href="./contact.php">Contact Us</a></li>
+									</ul>
+								</div>
+								<!-- Footer Links End -->
+							</div>
+
+							<div class="col-lg-3 col-md-4">
+								<!-- Footer Links Start -->
+								<div class="footer-links">
+									<h2>Product</h2>
+									<ul>
+										<li><a href="./product.php">Product 1</a></li>
+										<li><a href="./product.php">Product 2</a></li>
+										<li><a href="./product.php">Product 3</a></li>
+										<li><a href="./product.php">Product 4</a></li>
+										<li><a href="./product.php">Product 5</a></li>
 									</ul>
 								</div>
 								<!-- Footer Links End -->
@@ -101,30 +119,15 @@
 								<div class="footer-links">
 									<h2>Services</h2>
 									<ul>
-										<li><a href="#">Consultancy</a></li>
-										<li><a href="#">Solar System</a></li>
-										<li><a href="#">Solar Panel</a></li>
-										<li><a href="#">Style Guide</a></li>
-										<li><a href="#">License</a></li>
+										<li><a href="./service.php">Residential Solar</a></li>
+										<li><a href="./service.php">Commercial Solar</a></li>
+										<li><a href="./service.php">Battery Storage Solution</a></li>
 									</ul>
 								</div>
 								<!-- Footer Links End -->
 							</div>
 
-							<div class="col-lg-3 col-md-4">
-								<!-- Footer Links Start -->
-								<div class="footer-links">
-									<h2>Useful Links</h2>
-									<ul>
-										<li><a href="#">Privacy Policy</a></li>
-										<li><a href="#">Term & Conditions</a></li>
-										<li><a href="#">Warranty</a></li>
-										<li><a href="#">Support</a></li>
-										<li><a href="#">Damage Policy</a></li>
-									</ul>
-								</div>
-								<!-- Footer Links End -->
-							</div>
+							
 						</div>
 					</div>
 					<!-- Mega Footer End -->
@@ -135,7 +138,7 @@
 							<div class="col-md-12">
 								<!-- Footer Copyright Content Start -->
 								<div class="footer-copyright-text">
-									<p>Copyright © 2024 Solor. All rights reserved.</p>
+									<p>Copyright © 2025 Smartgen Solar. All rights reserved.</p>
 								</div>
 								<!-- Footer Copyright Content End -->
 							</div>

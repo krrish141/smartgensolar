@@ -10,9 +10,9 @@
     <meta name="keywords" content="">
     <meta name="author" content="Awaiken">
     <!-- Page Title -->
-    <title>Solor - Solar & Renewable Energy HTML Template</title>
+    <title>SmartGenSolor</title>
     <!-- Favicon Icon -->
-    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+    <!-- <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png"> -->
     <!-- Google Fonts css-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
@@ -91,7 +91,7 @@
             <nav class="navbar navbar-expand-lg">
                 <div class="container">
                     <!-- Logo Start -->
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="./index.php">
                         <img src="images/logo.webp" alt="Logo">
                     </a>
                     <!-- Logo End -->
@@ -99,37 +99,37 @@
                     <!-- Main Menu start -->
                     <div class="collapse navbar-collapse main-menu">
                         <ul class="navbar-nav mr-auto" id="menu">
-                            <li class="nav-item "><a class="nav-link" href="">Home</a></li>
-                            <li class="nav-item submenu"><a class="nav-link" href="">About us</a>
+                            <li class="nav-item "><a class="nav-link" href="./index.php">Home</a></li>
+                            <li class="nav-item submenu"><a class="nav-link" href="./about.php">About us</a>
                                 <ul>
-                                    <li class="nav-item"><a class="nav-link" href="">About </a></li>
-                                    <li class="nav-item"><a class="nav-link" href="">Trusted Partner</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="">Why Us</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="">FAQ's</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="./about.php">About </a></li>
+                                    <li class="nav-item"><a class="nav-link" href="./about.php">Trusted Partner</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="./about.php">Why Us</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="./about.php">FAQ's</a></li>
                                 </ul>
                             </li>
 
-                            <li class="nav-item submenu"><a class="nav-link" href="services.html">Services</a>
+                            <li class="nav-item submenu"><a class="nav-link" href="./service.php">Services</a>
                                 <ul>
-                                    <li class="nav-item"><a class="nav-link" href="">Residential Solar</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="">Commercial Solar</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="">Battery Storage Solution</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="./service.php">Residential Solar</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="./service.php">Commercial Solar</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="./service.php">Battery Storage Solution</a></li>
                                 </ul>
                             </li>
                            
-                            <li class="nav-item submenu"><a class="nav-link" href="#">Product</a>
+                            <li class="nav-item submenu"><a class="nav-link" href="./product.php">Product</a>
                                 <ul>
-                                    <li class="nav-item"><a class="nav-link" href="">Product 1</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="">Product 2</a> </li>
-                                    <li class="nav-item"><a class="nav-link" href="">Product 3</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="">Product 4</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="./product.php">Product 1</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="./product.php">Product 2</a> </li>
+                                    <li class="nav-item"><a class="nav-link" href="./product.php">Product 3</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="./product.php">Product 4</a></li>
                                 </ul>
                             </li>
-                            <li class="nav-item"><a class="nav-link" href="contact.html">Testimonials</a></li>
+                            <li class="nav-item"><a class="nav-link" href="./testimonial.php">Testimonials</a></li>
                            
-                            <li class="nav-item"><a class="nav-link" href="contact.html">Contact us</a></li>
+                            <li class="nav-item"><a class="nav-link" href="./contact.php">Contact us</a></li>
                            
-                            <li class="nav-item highlighted-menu"><a class="nav-link" href="#">Enquiry</a></li>
+                            <li class="nav-item highlighted-menu"><a class="nav-link" href="./contact.php">Enquiry</a></li>
                         </ul>
                     </div>
                     <!-- Main Menu End -->
