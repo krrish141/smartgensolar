@@ -35,6 +35,8 @@
 					<!-- Section Title End -->
 				</div>
 			</div>
+
+
 			<div class="row">
 				<div class="col-lg-3 col-md-6">
 					<!-- Contact Info Item Start -->
@@ -46,8 +48,8 @@
 						</div>
 
 						<div class="contact-info-content">
-							<h3>Our Addresses:</h3>
-							<p>123, Lorem Ipsum, Street no, City, Country 123456</p>
+							<h3>​Brisbane Office::</h3>
+							<p>Building 6, 2404 Logan Rd, Eight Mile Plains, Brisbane, QLD, 4113</p>
 						</div>
 
 						<div class="contact-icon">
@@ -59,6 +61,81 @@
 
 				<div class="col-lg-3 col-md-6">
 					<!-- Contact Info Item Start -->
+					<div class="contact-info-item wow fadeInUp" data-wow-delay="0.25s">
+						<div class="contact-image">
+							<figure class="image-anime">
+								<img src="images/location-img.jpg" alt="">
+							</figure>
+						</div>
+
+						<div class="contact-info-content">
+							<h3>Townsville Office:</h3>
+							<p>Level-1, 33-35 Palmer Street,
+
+South Townsville,QLD,4810</p>
+						</div>
+
+						<div class="contact-icon">
+							<img src="images/icon-location.svg" alt="">
+						</div>
+					</div>
+					<!-- Contact Info Item End -->
+				</div>
+
+				<div class="col-lg-3 col-md-6">
+					<!-- Contact Info Item Start -->
+					<div class="contact-info-item wow fadeInUp" data-wow-delay="0.25s">
+						<div class="contact-image">
+							<figure class="image-anime">
+								<img src="images/location-img.jpg" alt="">
+							</figure>
+						</div>
+
+						<div class="contact-info-content">
+							<h3>Toowoomba Office:</h3>
+							<p>Suite 54  58 - 62 Water Street,
+
+South Toowoomba, QLD, 4350</p>
+						</div>
+
+						<div class="contact-icon">
+							<img src="images/icon-location.svg" alt="">
+						</div>
+					</div>
+					<!-- Contact Info Item End -->
+				</div>
+
+				<div class="col-lg-3 col-md-6">
+					<!-- Contact Info Item Start -->
+					<div class="contact-info-item wow fadeInUp" data-wow-delay="0.25s">
+						<div class="contact-image">
+							<figure class="image-anime">
+								<img src="images/location-img.jpg" alt="">
+							</figure>
+						</div>
+
+						<div class="contact-info-content">
+							<h3>Mackay Office:</h3>
+							<p>Suite 2, 52 Macalister street,
+
+Mackay, QLD,4740</p>
+						</div>
+
+						<div class="contact-icon">
+							<img src="images/icon-location.svg" alt="">
+						</div>
+					</div>
+					<!-- Contact Info Item End -->
+				</div>
+
+
+			</div>
+
+			<div class="row mt-5">
+				
+
+				<div class="col-lg-4 col-md-6">
+					<!-- Contact Info Item Start -->
 					<div class="contact-info-item wow fadeInUp" data-wow-delay="0.5s">
 						<div class="contact-image">
 							<figure class="image-anime">
@@ -68,7 +145,7 @@
 
 						<div class="contact-info-content">
 							<h3>Emails:</h3>
-							<p>info@domainname.com<br> sales@domainname.com</p>
+							<p> info@smartgensolar.com.au </p>
 						</div>
 
 						<div class="contact-icon">
@@ -78,7 +155,7 @@
 					<!-- Contact Info Item End -->
 				</div>
 
-				<div class="col-lg-3 col-md-6">
+				<div class="col-lg-4 col-md-6">
 					<!-- Contact Info Item Start -->
 					<div class="contact-info-item wow fadeInUp" data-wow-delay="0.75s">
 						<div class="contact-image">
@@ -89,7 +166,7 @@
 
 						<div class="contact-info-content">
 							<h3>Phones:</h3>
-							<p>(+0) 123 456 789<br> (+1) 456 123 789</p>
+							<p>1300 92 61 61</p>
 						</div>
 
 						<div class="contact-icon">
@@ -99,7 +176,7 @@
 					<!-- Contact Info Item End -->
 				</div>
 
-				<div class="col-lg-3 col-md-6">
+				<div class="col-lg-4 col-md-6">
 					<!-- Contact Info Item Start -->
 					<div class="contact-info-item wow fadeInUp" data-wow-delay="1.0s">
 						<div class="contact-image">

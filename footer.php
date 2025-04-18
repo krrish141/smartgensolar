@@ -13,7 +13,7 @@
 
 							<div class="footer-contact-info">
 								<h3>Support & Email</h3>
-								<p>info@domainname.com</p>
+								<p> info@smartgensolar.com.au</p>
 							</div>
 						</div>
 						<!-- Footer Contact Box End -->
@@ -28,7 +28,7 @@
 
 							<div class="footer-contact-info">
 								<h3>Customer Support</h3>
-								<p>+01 547 547 5478</p>
+								<p> 1300 92 61 61</p>
 							</div>
 						</div>
 						<!-- Footer Contact Box End -->
@@ -43,7 +43,7 @@
 
 							<div class="footer-contact-info">
 								<h3>Our Location</h3>
-								<p>Street no, City, Country 123456</p>
+								<p>Building 6, 2404 Logan Rd, Eight Mile Plains, Brisbane, QLD, 4113</p>
 							</div>
 						</div>
 						<!-- Footer Contact Box End -->

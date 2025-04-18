@@ -42,7 +42,7 @@
     <div class="preloader">
         <div class="loading-container">
             <div class="loading"></div>
-            <div id="loading-icon"><img src="images/loader.svg" alt=""></div>
+            <div id="loading-icon"><img src="images/logo.webp" alt=""></div>
         </div>
     </div>
     <!-- Preloader End -->
@@ -61,8 +61,8 @@
                     <!-- Topbar Contact Information Start -->
                     <div class="topbar-contact-info">
                         <ul>
-                            <li><a href="#"><i class="fa-solid fa-envelope"></i> info@domain.com</a></li>
-                            <li><a href="#"><i class="fa-solid fa-phone"></i> +01 248 248 2481</a></li>
+                            <li><a href="mailto:info@smartgensolar.com.au"><i class="fa-solid fa-envelope"></i> info@smartgensolar.com.au</a></li>
+                            <li><a href="tel:1300926161"><i class="fa-solid fa-phone"></i> 1300 92 61 61</a></li>
                         </ul>
                     </div>
                     <!-- Topbar Contact Information End -->
@@ -103,9 +103,11 @@
                             <li class="nav-item submenu"><a class="nav-link" href="./about.php">About us</a>
                                 <ul>
                                     <li class="nav-item"><a class="nav-link" href="./about.php">About </a></li>
-                                    <li class="nav-item"><a class="nav-link" href="./about.php">Trusted Partner</a></li>
                                     <li class="nav-item"><a class="nav-link" href="./about.php">Why Us</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="./about.php">Trusted Partner</a></li>
+                                  
                                     <li class="nav-item"><a class="nav-link" href="./about.php">FAQ's</a></li>
+                                    
                                 </ul>
                             </li>
 
@@ -113,6 +115,7 @@
                                 <ul>
                                     <li class="nav-item"><a class="nav-link" href="./service.php">Residential Solar</a></li>
                                     <li class="nav-item"><a class="nav-link" href="./service.php">Commercial Solar</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="./service.php">Off Grid Solar</a></li>
                                     <li class="nav-item"><a class="nav-link" href="./service.php">Battery Storage Solution</a></li>
                                 </ul>
                             </li>

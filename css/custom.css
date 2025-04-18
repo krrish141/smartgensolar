@@ -280,7 +280,7 @@ a:focus{
 	right: 0;
 	bottom: 0;
 	z-index: 1000;
-	background-color: var(--accent-color);
+	background-color:white;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -290,7 +290,7 @@ a:focus{
 .loading{
 	height: 100px;
 	position: relative;
-	width: 100px;
+	width: 500px;
 	border-radius: 100%;
 }
 
@@ -314,7 +314,7 @@ a:focus{
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	max-width: 100px;
+	max-width: 500px;
 	transform: translate(-50%, -50%);
 }
 
@@ -1401,14 +1401,14 @@ header.main-header .header-sticky.active{
 
 .service-item .service-content{
 	position: absolute;
-	left: 20px;
-	right: 20px;
-	bottom: 20px;
-	background: var(--white-color);
-	border-radius: 30px;
-	padding: 25px;
-	z-index: 2;
-	transition: all 0.2s ease-out;
+    left: 20px;
+    right: 20px;
+    bottom: 10px;
+    background: var(--white-color);
+    border-radius: 30px;
+    padding: 12px;
+    z-index: 2;
+    transition: all 0.2s ease-out;
 }
 
 .service-item:hover .service-content{
@@ -2337,7 +2337,7 @@ header.main-header .header-sticky.active{
 
 .counter-content p{
 	margin-bottom: 0;
-	color: var(--accent-color);
+	color: white;
 }
 
 .company-overview{
@@ -3669,8 +3669,8 @@ header.main-header .header-sticky.active{
 	-webkit-text-stroke-width: 1px;
     stroke-width: 1px;
 	font-weight: 700;
-    -webkit-text-stroke-color: var(--accent-color);
-    stroke: var(--accent-color);
+    -webkit-text-stroke-color: black;
+    stroke: black;
 }
 
 .scrolling-content span:after{
