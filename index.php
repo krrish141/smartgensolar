@@ -112,7 +112,7 @@
                                         <div class="hero-image-box">
                                             <div class="rotate-circle"></div>
                                             <figure>
-                                                <img src="images/hero-3-right-img.jpg" alt="Clean Energy Movement">
+                                                <img src="images/hero-3.2-right-img.jpg" alt="Clean Energy Movement">
                                             </figure>
                                         </div>
                                     </div>
@@ -456,7 +456,6 @@
         </div>
     </div>
 </div>
-
 <!-- Our Process Section End -->
 
 
@@ -490,7 +489,7 @@
 
                         <h3 class="text-white">Australian Owned</h3>
                         <p class="text-white">
-SmartGen Solar is 100% Australian Owned and operated company. With branches offering services in almost every state, SmartGen Solar is one of the most reliable enterprise in the market.</p>
+        SmartGen Solar is 100% Australian Owned and operated company. With branches offering services in almost every state, SmartGen Solar is one of the most reliable enterprise in the market.</p>
                     </div>
                 </div>
                 <!-- Why Choose Item End -->

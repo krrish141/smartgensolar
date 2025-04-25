@@ -52,19 +52,25 @@
                 <!-- Section Title End -->
 
                 <!-- About us Content Start -->
-                  <!-- About us Content Start -->
-    <div class="about-content wow fadeInUp" data-wow-delay="0.25s">
-        <p>The SmartGen Solar team brings nearly a decade of experience in designing custom solar solutions tailored to client needs. Born out of a passion for providing reliable service and great value, SmartGen Solar is committed to making solar accessible and efficient for all.</p>
+                <!-- About us Content Start -->
+                <div class="about-content wow fadeInUp" data-wow-delay="0.25s">
+                    <p>The SmartGen Solar team brings nearly a decade of experience in designing custom solar solutions
+                        tailored to client needs. Born out of a passion for providing reliable service and great value,
+                        SmartGen Solar is committed to making solar accessible and efficient for all.</p>
 
-        <p>We begin by carefully analyzing your current and future energy requirements to create a system that reduces your energy costs and delivers long-term savings.</p>
+                    <p>We begin by carefully analyzing your current and future energy requirements to create a system
+                        that reduces your energy costs and delivers long-term savings.</p>
 
-        <p>Having worked across various solar retailers, we understand that the quality of solar components greatly impacts performance. That’s why we only source from top-tier manufacturers — ensuring you get the most reliable, high-quality systems available.</p>
+                    <p>Having worked across various solar retailers, we understand that the quality of solar components
+                        greatly impacts performance. That’s why we only source from top-tier manufacturers — ensuring
+                        you get the most reliable, high-quality systems available.</p>
 
-        <p>Let our experienced team guide you toward energy independence and help you join the thousands of Australians benefiting from clean, affordable solar power.</p>
+                    <p>Let our experienced team guide you toward energy independence and help you join the thousands of
+                        Australians benefiting from clean, affordable solar power.</p>
 
-        <p><strong>We are proud members of the Clean Energy Council.</strong></p>
+                    <p><strong>We are proud members of the Clean Energy Council.</strong></p>
 
-    </div>
+                </div>
                 <!-- About us Content End -->
             </div>
         </div>
@@ -105,7 +111,9 @@
 
                         <h3 class="text-white">Australian Owned</h3>
                         <p class="text-white">
-SmartGen Solar is 100% Australian Owned and operated company. With branches offering services in almost every state, SmartGen Solar is one of the most reliable enterprise in the market.</p>
+                            SmartGen Solar is 100% Australian Owned and operated company. With branches offering
+                            services in almost every state, SmartGen Solar is one of the most reliable enterprise in the
+                            market.</p>
                     </div>
                 </div>
                 <!-- Why Choose Item End -->
@@ -124,7 +132,8 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
                         </div>
 
                         <h3 class="text-white">Australian Warranty</h3>
-                        <p class="text-white">All the products used or endorsed by SmartGen Solar comes from our trusted partners along with more than 10 years of warranty certificates.</p>
+                        <p class="text-white">All the products used or endorsed by SmartGen Solar comes from our trusted
+                            partners along with more than 10 years of warranty certificates.</p>
                     </div>
                 </div>
                 <!-- Why Choose Item End -->
@@ -143,7 +152,8 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
                         </div>
 
                         <h3 class="text-white">Customer Service</h3>
-                        <p class="text-white">With more than 10 years of experience from our staffs and electricians, we deliver exceptional services to our customers.</p>
+                        <p class="text-white">With more than 10 years of experience from our staffs and electricians, we
+                            deliver exceptional services to our customers.</p>
                     </div>
                 </div>
                 <!-- Why Choose Item End -->
@@ -153,7 +163,8 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
                 <!-- Why Choose Item Start -->
                 <div class="why-choose-item wow fadeInUp" data-wow-delay="1.0s">
                     <div class="why-choose-image">
-                        <img src="https://img.freepik.com/free-photo/representation-ecology-sustainability_23-2151896744.jpg?ga=GA1.1.244235183.1736331240&semt=ais_hybrid&w=740" alt="">
+                        <img src="https://img.freepik.com/free-photo/representation-ecology-sustainability_23-2151896744.jpg?ga=GA1.1.244235183.1736331240&semt=ais_hybrid&w=740"
+                            alt="">
                     </div>
 
                     <div class="why-choose-content">
@@ -162,7 +173,8 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
                         </div>
 
                         <h3 class="text-white">Flexible Finance</h3>
-                        <p class="text-white">SmartGen solar offers a range of competitive financial solutions to both commercial and residential customers.</p>
+                        <p class="text-white">SmartGen solar offers a range of competitive financial solutions to both
+                            commercial and residential customers.</p>
                     </div>
                 </div>
                 <!-- Why Choose Item End -->
@@ -172,7 +184,8 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
                 <!-- Why Choose Item Start -->
                 <div class="why-choose-item wow fadeInUp" data-wow-delay="1.0s">
                     <div class="why-choose-image">
-                        <img src="https://img.freepik.com/free-photo/sunset-sky-powers-wind-solar-energy-generated-by-ai_188544-26193.jpg?ga=GA1.1.244235183.1736331240&semt=ais_hybrid&w=740" alt="">
+                        <img src="https://img.freepik.com/free-photo/sunset-sky-powers-wind-solar-energy-generated-by-ai_188544-26193.jpg?ga=GA1.1.244235183.1736331240&semt=ais_hybrid&w=740"
+                            alt="">
                     </div>
 
                     <div class="why-choose-content">
@@ -181,7 +194,8 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
                         </div>
 
                         <h3 class="text-white">No Lock in Contract</h3>
-                        <p class="text-white"> SmartGen Solar offers easy and stress-free signup options with no lock-in contract for all solar packages.  </p>
+                        <p class="text-white"> SmartGen Solar offers easy and stress-free signup options with no lock-in
+                            contract for all solar packages. </p>
                     </div>
                 </div>
                 <!-- Why Choose Item End -->
@@ -192,7 +206,8 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
                 <!-- Why Choose Item Start -->
                 <div class="why-choose-item wow fadeInUp" data-wow-delay="1.0s">
                     <div class="why-choose-image">
-                        <img src="https://img.freepik.com/free-photo/futuristic-solar-power-station-generates-clean-electricity-generated-by-ai_188544-20184.jpg?ga=GA1.1.244235183.1736331240&semt=ais_hybrid&w=740" alt="">
+                        <img src="https://img.freepik.com/free-photo/futuristic-solar-power-station-generates-clean-electricity-generated-by-ai_188544-20184.jpg?ga=GA1.1.244235183.1736331240&semt=ais_hybrid&w=740"
+                            alt="">
                     </div>
 
                     <div class="why-choose-content">
@@ -201,7 +216,8 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
                         </div>
 
                         <h3 class="text-white">One Stop Shop</h3>
-                        <p class="text-white">We offer expert solar assessment which helps our users to get a first hand experience for realizing the benefit of solar.</p>
+                        <p class="text-white">We offer expert solar assessment which helps our users to get a first hand
+                            experience for realizing the benefit of solar.</p>
                     </div>
                 </div>
                 <!-- Why Choose Item End -->
@@ -210,6 +226,108 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
     </div>
 </div>
 <!-- Why Choose us Section End -->
+
+<!-- Our Projects Layout 2 Start -->
+<div class="our-projects-layout2">
+    <div class="container-fluid">
+        <div class="row no-gap">
+            <div class="col-md-12">
+                <!-- Section Title Start -->
+                <div class="section-title">
+                    <h3 class="wow fadeInUp">Guarantees</h3>
+                    <h2 class="text-anime">Our Guarantees</h2>
+                </div>
+                <!-- Section Title End -->
+            </div>
+        </div>
+
+        <div class="row no-gap">
+            <div class="col-md-12">
+                <!-- Project Layout 2 Slider Start -->
+                <div class="project-layout2-slider">
+                    <div class="swiper">
+                        <div class="swiper-wrapper">
+                            <!-- Project Layout 2 Slide Start -->
+                            <div class="swiper-slide">
+                                <div class="project-layout2-slide">
+                                    <div class="project-image">
+                                        <figure class="image-anime">
+                                            <img src="images/garuntee/1.avif" alt="">
+                                        </figure>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Project Layout 2 Slide End -->
+
+                            <!-- Project Layout 2 Slide Start -->
+                            <div class="swiper-slide">
+                                <div class="project-layout2-slide">
+                                    <div class="project-image">
+                                        <figure class="image-anime">
+                                            <img src="images/garuntee/2.avif" alt="">
+                                        </figure>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Project Layout 2 Slide End -->
+
+                            <!-- Project Layout 2 Slide Start -->
+                            <div class="swiper-slide">
+                                <div class="project-layout2-slide">
+                                    <div class="project-image">
+                                        <figure class="image-anime">
+                                            <img src="images/garuntee/1.avif" alt="">
+                                        </figure>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Project Layout 2 Slide End -->
+
+                            <!-- Project Layout 2 Slide Start -->
+                            <div class="swiper-slide">
+                                <div class="project-layout2-slide">
+                                    <div class="project-image">
+                                        <figure class="image-anime">
+                                            <img src="images/garuntee/2.avif" alt="">
+                                        </figure>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Project Layout 2 Slide End -->
+
+                            <!-- Project Layout 2 Slide Start -->
+                            <div class="swiper-slide">
+                                <div class="project-layout2-slide">
+                                    <div class="project-image">
+                                        <figure class="image-anime">
+                                            <img src="images/garuntee/1.avif" alt="">
+                                        </figure>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Project Layout 2 Slide End -->
+
+                            <!-- Project Layout 2 Slide Start -->
+                            <div class="swiper-slide">
+                                <div class="project-layout2-slide">
+                                    <div class="project-image">
+                                        <figure class="image-anime">
+                                            <img src="images/garuntee/2.avif" alt="">
+                                        </figure>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Project Layout 2 Slide End -->
+                        </div>
+                    </div>
+                </div>
+                <!-- Project Layout 2 Slider End -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Our Projects Layout 2 End -->
+
 
 <!-- Footer Ticker Start -->
 <div class="footer-ticker">
@@ -223,6 +341,7 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
             <!-- Section Title End -->
         </div>
     </div>
+
     <div class="scrolling-ticker">
         <div class="scrolling-ticker-box">
             <div class="scrolling-content">
@@ -240,6 +359,7 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
 
         </div>
     </div>
+    
 </div>
 <!-- Footer Ticker End -->
 
@@ -252,8 +372,8 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
             <div class="col-md-12">
                 <!-- Section Title Start -->
                 <div class="section-title">
-                    <h3 class="wow fadeInUp">Our Latest Process</h3>
-                    <h2 class="text-anime">Our Work Process</h2>
+                    <h3 class="wow fadeInUp">Our Proven Process</h3>
+                    <h2 class="text-anime">How Smart Gen Solar Works</h2>
                 </div>
                 <!-- Section Title End -->
             </div>
@@ -273,8 +393,9 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
                     </div>
 
                     <div class="step-content">
-                        <h3>Project Planing</h3>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <h3>Project Planning</h3>
+                        <p>We begin by understanding your energy needs and creating a customized solar plan tailored for
+                            your property.</p>
                     </div>
                 </div>
                 <!-- Step Item End -->
@@ -294,7 +415,8 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
 
                     <div class="step-content">
                         <h3>Research & Analysis</h3>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <p>Our experts conduct site assessments and analyze technical and financial data to ensure
+                            maximum solar efficiency.</p>
                     </div>
                 </div>
                 <!-- Step Item End -->
@@ -314,7 +436,8 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
 
                     <div class="step-content">
                         <h3>Solar Installation</h3>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <p>Our skilled technicians install high-quality solar panels with precision and care, ensuring a
+                            smooth and timely setup.</p>
                     </div>
                 </div>
                 <!-- Step Item End -->
@@ -322,6 +445,7 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
         </div>
     </div>
 </div>
+
 <!-- Our Process Section End -->
 
 <!-- Infobar Section Start -->
@@ -349,10 +473,12 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
                                         <img src="images/icon-cta-phone.svg" alt="">
                                     </figure>
                                 </div>
-                                <h3 class="text-anime">Have Questions? <span>Call Us</span> 800-001-658</h3>
-                                <p class="wow fadeInUp" data-wow-delay="0.25s">It is a long established fact that a
-                                    reader will be distracted by the readable content of a page when looking at its
-                                    layout.</p>
+                                <h3 class="text-anime">Have Questions? <span>Call Us:</span> 1300 92 61 61</h3>
+                                <p class="wow fadeInUp" data-wow-delay="0.25s">
+                                    Need help with solar solutions? Our experts at Smart Gen Solar are here to assist
+                                    you with any queries related to solar panel installation, maintenance, and more.
+                                </p>
+
                             </div>
                             <!-- CTA Content End -->
                         </div>
@@ -467,18 +593,22 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
                                     is between $2500 (for a small 1.5 kW system) and $11,500 (for a top-of-the-line 5 kW
                                     system).
 
-                                  </p>
-                                  <p>  For businesses, the approximate cost of installing solar ranges from around $15,000
+                                </p>
+                                <p> For businesses, the approximate cost of installing solar ranges from around $15,000
                                     (for a 10kW system) to more than $200,000 (for a high-capacity 100 kW system).</p>
-                                    <p>The upfront cost of your solar PV system is affected by a number of different factors, including:</p>
-                                    <ul>
-                                        <li>Government incentives and support schemes available</li>
-                                        <li>Contractor installation costs</li>
-                                        <li>Type and number of solar panels, which affect the output of your system in kilowatts (kW)</li>
-                                        <li>Type and size of inverter (the part of the system that converts the electrical output of your solar panels into AC electricity for use in your home or business)</li>
-                                        <li>Type of framing equipment and other system components</li>
-                                        <li>Height and accessibility of roof and whether it is tiled, metal or concrete</li>
-                                        <li>Any after-sales service agreements</li>
+                                <p>The upfront cost of your solar PV system is affected by a number of different
+                                    factors, including:</p>
+                                <ul>
+                                    <li>Government incentives and support schemes available</li>
+                                    <li>Contractor installation costs</li>
+                                    <li>Type and number of solar panels, which affect the output of your system in
+                                        kilowatts (kW)</li>
+                                    <li>Type and size of inverter (the part of the system that converts the electrical
+                                        output of your solar panels into AC electricity for use in your home or
+                                        business)</li>
+                                    <li>Type of framing equipment and other system components</li>
+                                    <li>Height and accessibility of roof and whether it is tiled, metal or concrete</li>
+                                    <li>Any after-sales service agreements</li>
                             </div>
                         </div>
                     </div>
@@ -490,14 +620,23 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading2"><button class="accordion-button collapsed"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="true"
-                                aria-controls="collapse2">How can solar generation reduce my electricity bills?</button></h2>
+                                aria-controls="collapse2">How can solar generation reduce my electricity bills?</button>
+                        </h2>
 
                         <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2"
                             data-bs-parent="#faq_accordion">
                             <div class="accordion-body">
-                                <p>A typical residential household consumes about 6,500 kilowatt hours of electricity per year. Instead of purchasing all this electricity from your retailer, you can use the energy you generate from your own solar system and only purchase any extra electricity required from your retailer. Implementing this arrangement requires 'net' metering (see below).
+                                <p>A typical residential household consumes about 6,500 kilowatt hours of electricity
+                                    per year. Instead of purchasing all this electricity from your retailer, you can use
+                                    the energy you generate from your own solar system and only purchase any extra
+                                    electricity required from your retailer. Implementing this arrangement requires
+                                    'net' metering (see below).
 
-According to estimates from the Clean Energy Council, an average 2 kilowatt system installed in Sydney will generate around 7.8 kilowatt hours per day, which is around 2,847 kilowatt hours per annum. This is close to 40 per cent of the average household consumption, and could represent a substantial saving on your electricity bill.</p>
+                                    According to estimates from the Clean Energy Council, an average 2 kilowatt system
+                                    installed in Sydney will generate around 7.8 kilowatt hours per day, which is around
+                                    2,847 kilowatt hours per annum. This is close to 40 per cent of the average
+                                    household consumption, and could represent a substantial saving on your electricity
+                                    bill.</p>
                             </div>
                         </div>
                     </div>
@@ -513,9 +652,14 @@ According to estimates from the Clean Energy Council, an average 2 kilowatt syst
                         <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3"
                             data-bs-parent="#faq_accordion">
                             <div class="accordion-body">
-                                <p>How much of a saving you receive depends on many different aspects, including the size, quality and site of your system, your electricity usage patterns, the weather, and any feed-in tariff paid by your retailer.
+                                <p>How much of a saving you receive depends on many different aspects, including the
+                                    size, quality and site of your system, your electricity usage patterns, the weather,
+                                    and any feed-in tariff paid by your retailer.
 
-Your installer can advise you on the expected output of a particular model and size of system installed at your house or business. Having a typical electricity account on hand and knowing the time of day you typically use your electricity will help your installer match the system to your needs.</p>
+                                    Your installer can advise you on the expected output of a particular model and size
+                                    of system installed at your house or business. Having a typical electricity account
+                                    on hand and knowing the time of day you typically use your electricity will help
+                                    your installer match the system to your needs.</p>
                             </div>
                         </div>
                     </div>
@@ -531,7 +675,9 @@ Your installer can advise you on the expected output of a particular model and s
                         <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4"
                             data-bs-parent="#faq_accordion">
                             <div class="accordion-body">
-                                <p>SmartGen Solar always sources high quality products for solar system. That is why our systems are backed by 25 year performance warranty so that you can have peace of mind after making solar investment with regards to its performance.</p>
+                                <p>SmartGen Solar always sources high quality products for solar system. That is why our
+                                    systems are backed by 25 year performance warranty so that you can have peace of
+                                    mind after making solar investment with regards to its performance.</p>
                             </div>
                         </div>
                     </div>
@@ -541,27 +687,33 @@ Your installer can advise you on the expected output of a particular model and s
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading5"><button class="accordion-button collapsed"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="true"
-                                aria-controls="collapse5">What factors go into determining the perfect solar installation for my home?</button></h2>
+                                aria-controls="collapse5">What factors go into determining the perfect solar
+                                installation for my home?</button></h2>
 
                         <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5"
                             data-bs-parent="#faq_accordion">
                             <div class="accordion-body">
-                                <p>It truly depends on your home. Our team prides itself in determining and engineering the perfect solar fit. Here are some factors we use to determine your specific solar solution:</p>
+                                <p>It truly depends on your home. Our team prides itself in determining and engineering
+                                    the perfect solar fit. Here are some factors we use to determine your specific solar
+                                    solution:</p>
                                 <ul>
-                                    <li>Your current energy usage.  If you use more energy, you will need a bigger solar system.</li>
-                                    <li>Your state’s net metering policy.  Net metering policy determines whether (and how much) you can feed your excess energy back to the electricity grid.</li>
+                                    <li>Your current energy usage. If you use more energy, you will need a bigger solar
+                                        system.</li>
+                                    <li>Your state’s net metering policy. Net metering policy determines whether (and
+                                        how much) you can feed your excess energy back to the electricity grid.</li>
                                     <li>Your eligibility for tax credits, rebates, or incentives.</li>
-                                    <li>Your decision to lease or buy your solar system. With utility prices on the historic rise in most markets, you can save over the long term with solar.</li>
-                                  
+                                    <li>Your decision to lease or buy your solar system. With utility prices on the
+                                        historic rise in most markets, you can save over the long term with solar.</li>
+
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <!-- FAQ Item End -->
 
-                    
 
-                  
+
+
                 </div>
             </div>
             <!-- FAQ Accordion End -->

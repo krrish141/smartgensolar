@@ -68,8 +68,8 @@
     padding: 15px;
     border-radius: 7px;">
 									</figure>
-									<p>Green Energy is a long established fact that a reader will be distracted by the readable content of a page when.</p>
-								</div>
+									<p>Green energy is the future — at Smart Gen Solar, we make it accessible and affordable for everyone.</p>
+</div>
 								<!-- Footer About End -->
 
 								<!-- Footer Social Link Start -->
@@ -104,11 +104,9 @@
 								<div class="footer-links">
 									<h2>Product</h2>
 									<ul>
-										<li><a href="./product.php">Product 1</a></li>
-										<li><a href="./product.php">Product 2</a></li>
-										<li><a href="./product.php">Product 3</a></li>
-										<li><a href="./product.php">Product 4</a></li>
-										<li><a href="./product.php">Product 5</a></li>
+										<li><a href="./product.php">Solar Panels</a></li>
+										<li><a href="./product.php">Solar Inverters</a></li>
+										<li><a href="./product.php">Solar Battery Storage</a></li>
 									</ul>
 								</div>
 								<!-- Footer Links End -->

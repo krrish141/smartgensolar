@@ -122,10 +122,9 @@
                            
                             <li class="nav-item submenu"><a class="nav-link" href="./product.php">Product</a>
                                 <ul>
-                                    <li class="nav-item"><a class="nav-link" href="./product.php">Product 1</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="./product.php">Product 2</a> </li>
-                                    <li class="nav-item"><a class="nav-link" href="./product.php">Product 3</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="./product.php">Product 4</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="./product.php">Solar Panels</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="./product.php">Solar Inverters</a> </li>
+                                    <li class="nav-item"><a class="nav-link" href="./product.php">Solar Battery Storage</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item"><a class="nav-link" href="./testimonial.php">Testimonials</a></li>

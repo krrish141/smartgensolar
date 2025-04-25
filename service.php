@@ -151,9 +151,11 @@
 											<img src="images/icon-cta-phone.svg" alt="">
 										</figure>
 									</div>									
-									<h3 class="text-anime">Have Questions? <span>Call Us</span> 800-001-658</h3>
-									<p class="wow fadeInUp" data-wow-delay="0.25s">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-								</div>
+									<h3 class="text-anime">Have Questions? <span>Call Us:</span> 1300 92 61 61</h3>
+                                <p class="wow fadeInUp" data-wow-delay="0.25s">
+                                    Need help with solar solutions? Our experts at Smart Gen Solar are here to assist
+                                    you with any queries related to solar panel installation, maintenance, and more.
+                                </p></div>
 								<!-- CTA Content End -->
 							</div>
 						</div>

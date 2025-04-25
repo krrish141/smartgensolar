@@ -53,9 +53,7 @@
 
 
 <!-- Our Projects Page Start -->
-<div class="our-projects" style="background: linear-gradient(rgb(255 255 255 / 11%), rgb(255 255 255)), url(./images/product/solar-bg.avif);
-    background-size: cover;
-    background-position: center;">
+<div class="our-projects" >
     <div class="container">
 
         <div class="row">
@@ -78,11 +76,11 @@
                     </div>
 
                     <div class="project-content">
-                        <a href="./panel_longi.php" class="btn-default">read more</a>
+                        <a href="" class="btn-default">read more</a>
                     </div>
 
                     <div class="project-link">
-                        <a href="./panel_longi.php"><img src="images/icon-link.svg" alt=""></a>
+                        <a href="#"><img src="images/icon-link.svg" alt=""></a>
                     </div>
                 </div>
                 <!-- Project Item End -->
@@ -98,11 +96,11 @@
                     </div>
 
                     <div class="project-content">
-                        <a href="./panel_canadian.php" class="btn-default">read more</a>
+                        <a href="" class="btn-default">read more</a>
                     </div>
 
                     <div class="project-link">
-                        <a href="./panel_canadian.php"><img src="images/icon-link.svg" alt=""></a>
+                        <a href="#"><img src="images/icon-link.svg" alt=""></a>
                     </div>
                 </div>
                 <!-- Project Item End -->
@@ -120,11 +118,11 @@
                     </div>
 
                     <div class="project-content">
-                        <a href="./panel_trinal.php" class="btn-default">read more</a>
+                        <a href="" class="btn-default">read more</a>
                     </div>
 
                     <div class="project-link">
-                        <a href="./panel_trinal.php"><img src="images/icon-link.svg" alt=""></a>
+                        <a href="#"><img src="images/icon-link.svg" alt=""></a>
                     </div>
                 </div>
                 <!-- Project Item End -->
@@ -140,11 +138,11 @@
                     </div>
 
                     <div class="project-content">
-                        <a href="./panel_jinko.php" class="btn-default">read more</a>
+                        <a href="" class="btn-default">read more</a>
                     </div>
 
                     <div class="project-link">
-                        <a href="./panel_jinko.php"><img src="images/icon-link.svg" alt=""></a>
+                        <a href="#"><img src="images/icon-link.svg" alt=""></a>
                     </div>
                 </div>
                 <!-- Project Item End -->
@@ -160,11 +158,11 @@
                     </div>
 
                     <div class="project-content">
-                        <a href="./panel_JA.php" class="btn-default">read more</a>
+                        <a href="" class="btn-default">read more</a>
                     </div>
 
                     <div class="project-link">
-                        <a href="./panel_JA.php"><img src="images/icon-link.svg" alt=""></a>
+                        <a href="#"><img src="images/icon-link.svg" alt=""></a>
                     </div>
                 </div>
                 <!-- Project Item End -->
@@ -180,9 +178,7 @@
 <!-- Our Projects Page End -->
 
 <!-- Our Projects Page Start -->
-<div class="our-projects" style="background: linear-gradient(rgb(255 255 255 / 11%), rgb(255 255 255)), url(./images/product/inverterbg.png);
-    background-size: cover;
-    background-position: center;">
+<div class="our-projects" >
     <div class="container">
 
         <div class="row">
@@ -205,11 +201,11 @@
                     </div>
 
                     <div class="project-content">
-                        <a href="./inverter_solex.php" class="btn-default">read more</a>
+                        <a href="" class="btn-default">read more</a>
                     </div>
 
                     <div class="project-link">
-                        <a href="./inverter_solex.php"><img src="images/icon-link.svg" alt=""></a>
+                        <a href="#"><img src="images/icon-link.svg" alt=""></a>
                     </div>
                 </div>
                 <!-- Project Item End -->
@@ -225,11 +221,11 @@
                     </div>
 
                     <div class="project-content">
-                        <a href="./inverter_goodwe.php" class="btn-default">read more</a>
+                        <a href="" class="btn-default">read more</a>
                     </div>
 
                     <div class="project-link">
-                        <a href="./inverter_goodwe.php"><img src="images/icon-link.svg" alt=""></a>
+                        <a href="#"><img src="images/icon-link.svg" alt=""></a>
                     </div>
                 </div>
                 <!-- Project Item End -->
@@ -247,11 +243,11 @@
                     </div>
 
                     <div class="project-content">
-                        <a href="./inverter_sungrow.php" class="btn-default">read more</a>
+                        <a href="" class="btn-default">read more</a>
                     </div>
 
                     <div class="project-link">
-                        <a href="./inverter_sungrow.php"><img src="images/icon-link.svg" alt=""></a>
+                        <a href="#"><img src="images/icon-link.svg" alt=""></a>
                     </div>
                 </div>
                 <!-- Project Item End -->
@@ -267,11 +263,11 @@
                     </div>
 
                     <div class="project-content">
-                        <a href="./inverter_growatt.php" class="btn-default">read more</a>
+                        <a href="" class="btn-default">read more</a>
                     </div>
 
                     <div class="project-link">
-                        <a href="./inverter_growatt.php"><img src="images/icon-link.svg" alt=""></a>
+                        <a href="#"><img src="images/icon-link.svg" alt=""></a>
                     </div>
                 </div>
                 <!-- Project Item End -->
@@ -287,11 +283,11 @@
                     </div>
 
                     <div class="project-content">
-                        <a href="./inverter_fronis.php" class="btn-default">read more</a>
+                        <a href="" class="btn-default">read more</a>
                     </div>
 
                     <div class="project-link">
-                        <a href="./inverter_fronis.php"><img src="images/icon-link.svg" alt=""></a>
+                        <a href="#"><img src="images/icon-link.svg" alt=""></a>
                     </div>
                 </div>
                 <!-- Project Item End -->
@@ -308,9 +304,7 @@
 
 
 <!-- Our Projects Page Start -->
-<div class="our-projects" style="background: linear-gradient(rgb(255 255 255 / 11%), rgb(255 255 255)), url(./images/product/BatteryStorage_bg.avif);
-    background-size: cover;
-    background-position: center;">
+<div class="our-projects" >
     <div class="container">
 
         <div class="row">
@@ -333,11 +327,11 @@
                     </div>
 
                     <div class="project-content">
-                        <a href="./battery_sungrow.php" class="btn-default">read more</a>
+                        <a href="" class="btn-default">read more</a>
                     </div>
 
                     <div class="project-link">
-                        <a href="./battery_sungrow.php"><img src="images/icon-link.svg" alt=""></a>
+                        <a href="#"><img src="images/icon-link.svg" alt=""></a>
                     </div>
                 </div>
                 <!-- Project Item End -->
@@ -357,7 +351,7 @@
                     </div>
 
                     <div class="project-link">
-                        <a href=""><img src="images/icon-link.svg" alt=""></a>
+                        <a href="#"><img src="images/icon-link.svg" alt=""></a>
                     </div>
                 </div>
                 <!-- Project Item End -->
@@ -379,7 +373,7 @@
                     </div>
 
                     <div class="project-link">
-                        <a href=""><img src="images/icon-link.svg" alt=""></a>
+                        <a href="#"><img src="images/icon-link.svg" alt=""></a>
                     </div>
                 </div>
                 <!-- Project Item End -->
@@ -399,7 +393,7 @@
                     </div>
 
                     <div class="project-link">
-                        <a href=""><img src="images/icon-link.svg" alt=""></a>
+                        <a href="#"><img src="images/icon-link.svg" alt=""></a>
                     </div>
                 </div>
                 <!-- Project Item End -->
