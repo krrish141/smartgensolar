@@ -104,7 +104,7 @@
 
 						<div class="service-image">
 							<figure>
-								<img src="images/service/battery.avif" alt="">
+								<img src="images/service/battery.jpg" alt="">
 							</figure>
 
 							<div class="service-icon">
@@ -217,7 +217,8 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
                         </div>
 
                         <h3 class="text-white">Australian Warranty</h3>
-                        <p class="text-white">All the products used or endorsed by SmartGen Solar comes from our trusted partners along with more than 10 years of warranty certificates.</p>
+                        <p class="text-white">Australian Warranty You Can Trust
+						At SmartGen Solar, we only use and CEC accredited products from industry-leading partners worldwide.</p>
                     </div>
                 </div>
                 <!-- Why Choose Item End -->
@@ -261,24 +262,7 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
                 <!-- Why Choose Item End -->
             </div>
 
-            <div class="col-lg-4 col-md-6 mt-5">
-                <!-- Why Choose Item Start -->
-                <div class="why-choose-item wow fadeInUp" data-wow-delay="1.0s">
-                    <div class="why-choose-image">
-                        <img src="https://img.freepik.com/free-photo/sunset-sky-powers-wind-solar-energy-generated-by-ai_188544-26193.jpg?ga=GA1.1.244235183.1736331240&semt=ais_hybrid&w=740" alt="">
-                    </div>
-
-                    <div class="why-choose-content">
-                        <div class="why-choose-icon">
-                            <img src="images/icon-whyus-4.svg" alt="">
-                        </div>
-
-                        <h3 class="text-white">No Lock in Contract</h3>
-                        <p class="text-white"> SmartGen Solar offers easy and stress-free signup options with no lock-in contract for all solar packages.  </p>
-                    </div>
-                </div>
-                <!-- Why Choose Item End -->
-            </div>
+           
 
 
             <div class="col-lg-4 col-md-6 mt-5">
@@ -293,8 +277,8 @@ SmartGen Solar is 100% Australian Owned and operated company. With branches offe
                             <img src="images/icon-whyus-4.svg" alt="">
                         </div>
 
-                        <h3 class="text-white">One Stop Shop</h3>
-                        <p class="text-white">We offer expert solar assessment which helps our users to get a first hand experience for realizing the benefit of solar.</p>
+                        <h3 class="text-white">Tailor-Made Solar Solutions</h3>
+                        <p class="text-white">Every home and business is different — and so is our approach. At SmartGen Solar, we don’t believe in one-size-fits-all systems. Our expert team designs customised solar solutions based on your property, energy usage, and future goals.</p>
                     </div>
                 </div>
                 <!-- Why Choose Item End -->

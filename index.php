@@ -159,24 +159,43 @@
             </div>
 
             <div class="col-lg-6">
-                <!-- Section Title Start -->
-                <div class="section-title">
-                    <h3 class="wow fadeInUp two-color-text">About Us</h3>
-                    <h2 class="text-anime">About SmartGen Solar</h2>
+                 <!-- Section Title Start -->
+                 <div class="section-title">
+                    <h3 class="wow fadeInUp">About Us</h3>
+                    <h2 class="text-anime">Who We Are</h2>
                 </div>
                 <!-- Section Title End -->
 
                 <!-- About us Content Start -->
+                <!-- About us Content Start -->
                 <div class="about-content wow fadeInUp" data-wow-delay="0.25s">
-                    <p>The SmartGen Solar team brings nearly a decade of experience in designing custom solar solutions tailored to client needs. Born out of a passion for providing reliable service and great value, SmartGen Solar is committed to making solar accessible and efficient for all.</p>
+                    <p>SmartGen Solar has been operating since 2016, delivering reliable, high-quality solar solutions
+                        across Australia. With nearly a decade of hands-on industry experience, our team is passionate
+                        about helping families and businesses transition to clean, affordable energy.
+                    </p>
 
-                    <p>We begin by carefully analyzing your current and future energy requirements to create a system that reduces your energy costs and delivers long-term savings.</p>
+                    <p>We are proud members of the Clean Energy Council, committed to meeting the highest standards in
+                        every system we install.
+                    </p>
 
-                    <p>Having worked across various solar retailers, we understand that the quality of solar components greatly impacts performance. That’s why we only source from top-tier manufacturers — ensuring you get the most reliable, high-quality systems available.</p>
+                    <div class="section-title">
+                        <h2 class="text-anime" style="font-size: 30px;">Our Story
+                        </h2>
+                    </div>
+                    <p>
+                        Founded on a commitment to reliable service and real value, SmartGen Solar was created to offer
+                        personalised, trustworthy solar solutions.
+                    </p>
+                    <p>Our journey begins with you — we carefully assess your current and future energy needs to design
+                        a system that delivers immediate savings and long-term benefits.
+                    </p>
+                    <p>After working with various solar retailers, we’ve seen firsthand how component quality affects
+                        performance. That’s why we only use top-tier products from trusted manufacturers to ensure every
+                        installation is built to last.
+                    </p>
 
-                    <p>Let our experienced team guide you toward energy independence and help you join the thousands of Australians benefiting from clean, affordable solar power.</p>
+                    <p><strong>Let us help you take control of your energy future — <i> The Smart Way.</i></strong></p>
 
-                    <p><strong>We are proud members of the Clean Energy Council.</strong></p>
 
                     <a href="./about.php" class="btn-default">More About</a>
                 </div>
@@ -280,7 +299,7 @@
                                 <div class="service-item">
                                     <div class="service-image">
                                         <figure>
-                                            <img src="images/service/battery.avif" alt="">
+                                            <img src="images/service/battery.jpg" alt="">
                                         </figure>
 
                                         <div class="service-icon">
@@ -508,7 +527,8 @@
                         </div>
 
                         <h3 class="text-white">Australian Warranty</h3>
-                        <p class="text-white">All the products used or endorsed by SmartGen Solar comes from our trusted partners along with more than 10 years of warranty certificates.</p>
+                        <p class="text-white">Australian Warranty You Can Trust
+                        At SmartGen Solar, we only use and CEC accredited products from industry-leading partners worldwide.</p>
                     </div>
                 </div>
                 <!-- Why Choose Item End -->
@@ -552,24 +572,7 @@
                 <!-- Why Choose Item End -->
             </div>
 
-            <div class="col-lg-4 col-md-6 mt-5">
-                <!-- Why Choose Item Start -->
-                <div class="why-choose-item wow fadeInUp" data-wow-delay="1.0s">
-                    <div class="why-choose-image">
-                        <img src="https://img.freepik.com/free-photo/sunset-sky-powers-wind-solar-energy-generated-by-ai_188544-26193.jpg?ga=GA1.1.244235183.1736331240&semt=ais_hybrid&w=740" alt="">
-                    </div>
-
-                    <div class="why-choose-content">
-                        <div class="why-choose-icon">
-                            <img src="images/icon-whyus-4.svg" alt="">
-                        </div>
-
-                        <h3 class="text-white">No Lock in Contract</h3>
-                        <p class="text-white"> SmartGen Solar offers easy and stress-free signup options with no lock-in contract for all solar packages.  </p>
-                    </div>
-                </div>
-                <!-- Why Choose Item End -->
-            </div>
+           
 
 
             <div class="col-lg-4 col-md-6 mt-5">
@@ -584,8 +587,8 @@
                             <img src="images/icon-whyus-4.svg" alt="">
                         </div>
 
-                        <h3 class="text-white">One Stop Shop</h3>
-                        <p class="text-white">We offer expert solar assessment which helps our users to get a first hand experience for realizing the benefit of solar.</p>
+                        <h3 class="text-white">Tailor-Made Solar Solutions</h3>
+                        <p class="text-white">Every home and business is different — and so is our approach. At SmartGen Solar, we don’t believe in one-size-fits-all systems. Our expert team designs customised solar solutions based on your property, energy usage, and future goals.</p>
                     </div>
                 </div>
                 <!-- Why Choose Item End -->

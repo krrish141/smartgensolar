@@ -47,7 +47,7 @@
                                 <div class="testimonial-item2">
                                     <div class="testimonial-header">
                                         <div class="testimonial-author-image">
-                                            <img src="images/author-1.jpg" alt="">
+                                            <img src="images/testimonials/1.png" alt="">
                                         </div>
 
                                         <div class="testimonial-author-info">
@@ -67,7 +67,7 @@
                                 <div class="testimonial-item2">
                                     <div class="testimonial-header">
                                         <div class="testimonial-author-image">
-                                            <img src="images/author-2.jpg" alt="">
+                                            <img src="images/testimonials/2.png" alt="">
                                         </div>
 
                                         <div class="testimonial-author-info">
@@ -87,7 +87,7 @@
                                 <div class="testimonial-item2">
                                     <div class="testimonial-header">
                                         <div class="testimonial-author-image">
-                                            <img src="images/author-3.jpg" alt="">
+                                            <img src="images/testimonials/3.png" alt="">
                                         </div>
 
                                         <div class="testimonial-author-info">
@@ -103,28 +103,26 @@
                             </div>
                             <!-- Testimonial Slide End -->
 
-                            <!-- Testimonial Slide Start -->
-                            <div class="swiper-slide">
+                             <!-- Testimonial Slide Start -->
+                             <div class="swiper-slide">
                                 <div class="testimonial-item2">
                                     <div class="testimonial-header">
                                         <div class="testimonial-author-image">
-                                            <img src="images/author-2.jpg" alt="">
+                                            <img src="images/testimonials/1.png" alt="">
                                         </div>
 
                                         <div class="testimonial-author-info">
-                                            <h3>Sefali Sharma</h3>
-                                            <p>Head of Officer</p>
+                                            <h3> Fred </h3>
                                         </div>
                                     </div>
 
                                     <div class="testimonial-body">
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                            Lorem Ipsum has been the industry's standard dummy text ever since the
-                                            1500s, when an unknown printer took a galley of type and scrambled.</p>
+                                        <p>From Sales Team to electricians in SmartGen Solar, you are dealing with the professionals. I was highly impressed with their expertise on what they were doing. They really make this so simple with great value for money.</p>
                                     </div>
                                 </div>
                             </div>
                             <!-- Testimonial Slide End -->
+                          
                         </div>
 
                         <div class="swiper-pagination"></div>

@@ -47,28 +47,39 @@
                 <!-- Section Title Start -->
                 <div class="section-title">
                     <h3 class="wow fadeInUp">About Us</h3>
-                    <h2 class="text-anime">About Green Energy Solar</h2>
+                    <h2 class="text-anime">Who We Are</h2>
                 </div>
                 <!-- Section Title End -->
 
                 <!-- About us Content Start -->
                 <!-- About us Content Start -->
                 <div class="about-content wow fadeInUp" data-wow-delay="0.25s">
-                    <p>The SmartGen Solar team brings nearly a decade of experience in designing custom solar solutions
-                        tailored to client needs. Born out of a passion for providing reliable service and great value,
-                        SmartGen Solar is committed to making solar accessible and efficient for all.</p>
+                    <p>SmartGen Solar has been operating since 2016, delivering reliable, high-quality solar solutions
+                        across Australia. With nearly a decade of hands-on industry experience, our team is passionate
+                        about helping families and businesses transition to clean, affordable energy.
+                    </p>
 
-                    <p>We begin by carefully analyzing your current and future energy requirements to create a system
-                        that reduces your energy costs and delivers long-term savings.</p>
+                    <p>We are proud members of the Clean Energy Council, committed to meeting the highest standards in
+                        every system we install.
+                    </p>
 
-                    <p>Having worked across various solar retailers, we understand that the quality of solar components
-                        greatly impacts performance. That’s why we only source from top-tier manufacturers — ensuring
-                        you get the most reliable, high-quality systems available.</p>
+                    <div class="section-title">
+                        <h2 class="text-anime" style="font-size: 30px;">Our Story
+                        </h2>
+                    </div>
+                    <p>
+                        Founded on a commitment to reliable service and real value, SmartGen Solar was created to offer
+                        personalised, trustworthy solar solutions.
+                    </p>
+                    <p>Our journey begins with you — we carefully assess your current and future energy needs to design
+                        a system that delivers immediate savings and long-term benefits.
+                    </p>
+                    <p>After working with various solar retailers, we’ve seen firsthand how component quality affects
+                        performance. That’s why we only use top-tier products from trusted manufacturers to ensure every
+                        installation is built to last.
+                    </p>
 
-                    <p>Let our experienced team guide you toward energy independence and help you join the thousands of
-                        Australians benefiting from clean, affordable solar power.</p>
-
-                    <p><strong>We are proud members of the Clean Energy Council.</strong></p>
+                    <p><strong>Let us help you take control of your energy future — <i> The Smart Way.</i></strong></p>
 
                 </div>
                 <!-- About us Content End -->
@@ -132,8 +143,9 @@
                         </div>
 
                         <h3 class="text-white">Australian Warranty</h3>
-                        <p class="text-white">All the products used or endorsed by SmartGen Solar comes from our trusted
-                            partners along with more than 10 years of warranty certificates.</p>
+                        <p class="text-white">Australian Warranty You Can Trust
+                            At SmartGen Solar, we only use and CEC accredited products from industry-leading partners
+                            worldwide.</p>
                     </div>
                 </div>
                 <!-- Why Choose Item End -->
@@ -180,26 +192,7 @@
                 <!-- Why Choose Item End -->
             </div>
 
-            <div class="col-lg-4 col-md-6 mt-5">
-                <!-- Why Choose Item Start -->
-                <div class="why-choose-item wow fadeInUp" data-wow-delay="1.0s">
-                    <div class="why-choose-image">
-                        <img src="https://img.freepik.com/free-photo/sunset-sky-powers-wind-solar-energy-generated-by-ai_188544-26193.jpg?ga=GA1.1.244235183.1736331240&semt=ais_hybrid&w=740"
-                            alt="">
-                    </div>
 
-                    <div class="why-choose-content">
-                        <div class="why-choose-icon">
-                            <img src="images/icon-whyus-4.svg" alt="">
-                        </div>
-
-                        <h3 class="text-white">No Lock in Contract</h3>
-                        <p class="text-white"> SmartGen Solar offers easy and stress-free signup options with no lock-in
-                            contract for all solar packages. </p>
-                    </div>
-                </div>
-                <!-- Why Choose Item End -->
-            </div>
 
 
             <div class="col-lg-4 col-md-6 mt-5">
@@ -215,9 +208,10 @@
                             <img src="images/icon-whyus-4.svg" alt="">
                         </div>
 
-                        <h3 class="text-white">One Stop Shop</h3>
-                        <p class="text-white">We offer expert solar assessment which helps our users to get a first hand
-                            experience for realizing the benefit of solar.</p>
+                        <h3 class="text-white">Tailor-Made Solar Solutions</h3>
+                        <p class="text-white">Every home and business is different — and so is our approach. At SmartGen
+                            Solar, we don’t believe in one-size-fits-all systems. Our expert team designs customised
+                            solar solutions based on your property, energy usage, and future goals.</p>
                     </div>
                 </div>
                 <!-- Why Choose Item End -->
@@ -359,7 +353,7 @@
 
         </div>
     </div>
-    
+
 </div>
 <!-- Footer Ticker End -->
 
@@ -583,32 +577,17 @@
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading1"><button class="accordion-button" type="button"
                                 data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true"
-                                aria-controls="collapse1">How much do Solar Panels cost?</button>
+                                aria-controls="collapse1">How does solar power work?</button>
                         </h2>
 
                         <div id="collapse1" class="accordion-collapse collapse show" aria-labelledby="heading1"
                             data-bs-parent="#faq_accordion">
                             <div class="accordion-body">
-                                <p>As a very rough guide, the total cost of getting a home solar system up and running
-                                    is between $2500 (for a small 1.5 kW system) and $11,500 (for a top-of-the-line 5 kW
-                                    system).
+                                <p>Your roof-mounted solar panels contain photovoltaic cells, also known as solar cells.
+                                    When sunlight falls on the cells they convert the sun’s energy into DC (direct
+                                    current) power.
 
                                 </p>
-                                <p> For businesses, the approximate cost of installing solar ranges from around $15,000
-                                    (for a 10kW system) to more than $200,000 (for a high-capacity 100 kW system).</p>
-                                <p>The upfront cost of your solar PV system is affected by a number of different
-                                    factors, including:</p>
-                                <ul>
-                                    <li>Government incentives and support schemes available</li>
-                                    <li>Contractor installation costs</li>
-                                    <li>Type and number of solar panels, which affect the output of your system in
-                                        kilowatts (kW)</li>
-                                    <li>Type and size of inverter (the part of the system that converts the electrical
-                                        output of your solar panels into AC electricity for use in your home or
-                                        business)</li>
-                                    <li>Type of framing equipment and other system components</li>
-                                    <li>Height and accessibility of roof and whether it is tiled, metal or concrete</li>
-                                    <li>Any after-sales service agreements</li>
                             </div>
                         </div>
                     </div>
@@ -620,23 +599,18 @@
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading2"><button class="accordion-button collapsed"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="true"
-                                aria-controls="collapse2">How can solar generation reduce my electricity bills?</button>
+                                aria-controls="collapse2">What is a grid connect solar power system?</button>
                         </h2>
 
                         <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2"
                             data-bs-parent="#faq_accordion">
                             <div class="accordion-body">
-                                <p>A typical residential household consumes about 6,500 kilowatt hours of electricity
-                                    per year. Instead of purchasing all this electricity from your retailer, you can use
-                                    the energy you generate from your own solar system and only purchase any extra
-                                    electricity required from your retailer. Implementing this arrangement requires
-                                    'net' metering (see below).
-
-                                    According to estimates from the Clean Energy Council, an average 2 kilowatt system
-                                    installed in Sydney will generate around 7.8 kilowatt hours per day, which is around
-                                    2,847 kilowatt hours per annum. This is close to 40 per cent of the average
-                                    household consumption, and could represent a substantial saving on your electricity
-                                    bill.</p>
+                                <p> A grid-connected solar power system is a type of solar panel installation that is
+                                    connected to the main electricity grid. The system generates electricity using solar
+                                    panels, which convert the sun’s energy into electricity that can be used to power
+                                    your home or business. Any excess electricity that is generated by the system is fed
+                                    back into the grid, and you will receive a credit for this excess energy on your
+                                    electricity bill.</p>
                             </div>
                         </div>
                     </div>
@@ -646,20 +620,16 @@
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading3"><button class="accordion-button collapsed"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="true"
-                                aria-controls="collapse3">How much will a solar PV system
-                                reduce my bill by?</button></h2>
+                                aria-controls="collapse3">How much does a grid connect solar power setup cost?</button>
+                        </h2>
 
                         <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3"
                             data-bs-parent="#faq_accordion">
                             <div class="accordion-body">
-                                <p>How much of a saving you receive depends on many different aspects, including the
-                                    size, quality and site of your system, your electricity usage patterns, the weather,
-                                    and any feed-in tariff paid by your retailer.
-
-                                    Your installer can advise you on the expected output of a particular model and size
-                                    of system installed at your house or business. Having a typical electricity account
-                                    on hand and knowing the time of day you typically use your electricity will help
-                                    your installer match the system to your needs.</p>
+                                <p>The cost of a grid connect solar power system will vary depending on a number of
+                                    factors, such as the size of the system, the location of the property, and the type
+                                    of solar panels used. On average, you can expect to pay around $4,000 to $6,000 for
+                                    a small 2kW system, and upwards of $7,000 for a larger 5kW system.</p>
                             </div>
                         </div>
                     </div>
@@ -669,15 +639,15 @@
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading4"><button class="accordion-button collapsed"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="true"
-                                aria-controls="collapse4">What is the warranty cover
-                                on my Solar system?</button></h2>
+                                aria-controls="collapse4">Is my building suitable for a solar power system?</button>
+                        </h2>
 
                         <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4"
                             data-bs-parent="#faq_accordion">
                             <div class="accordion-body">
-                                <p>SmartGen Solar always sources high quality products for solar system. That is why our
-                                    systems are backed by 25 year performance warranty so that you can have peace of
-                                    mind after making solar investment with regards to its performance.</p>
+                                <p>It is best to have a professional assess whether your building is suitable for a
+                                    solar power system. Factors to consider include the age and condition of your roof,
+                                    the orientation and angle of your roof, and the amount of shading on your roof.</p>
                             </div>
                         </div>
                     </div>
@@ -687,23 +657,14 @@
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="heading5"><button class="accordion-button collapsed"
                                 type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="true"
-                                aria-controls="collapse5">What factors go into determining the perfect solar
-                                installation for my home?</button></h2>
+                                aria-controls="collapse5">How long will my grid connect solar power system
+                                last?</button></h2>
 
                         <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5"
                             data-bs-parent="#faq_accordion">
                             <div class="accordion-body">
-                                <p>It truly depends on your home. Our team prides itself in determining and engineering
-                                    the perfect solar fit. Here are some factors we use to determine your specific solar
-                                    solution:</p>
-                                <ul>
-                                    <li>Your current energy usage. If you use more energy, you will need a bigger solar
-                                        system.</li>
-                                    <li>Your state’s net metering policy. Net metering policy determines whether (and
-                                        how much) you can feed your excess energy back to the electricity grid.</li>
-                                    <li>Your eligibility for tax credits, rebates, or incentives.</li>
-                                    <li>Your decision to lease or buy your solar system. With utility prices on the
-                                        historic rise in most markets, you can save over the long term with solar.</li>
+                                <p>Solar power systems typically have a lifespan of around 25-30 years. However, this
+                                    can vary depending on the quality of the system and how well it is maintained. </p>
 
                                 </ul>
                             </div>
@@ -712,6 +673,160 @@
                     <!-- FAQ Item End -->
 
 
+                    <!-- FAQ Item Start -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="heading6"><button class="accordion-button collapsed"
+                                type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="true"
+                                aria-controls="collapse6">Do you have any electricity plans with solar and
+                                battery?</button></h2>
+
+                        <div id="collapse6" class="accordion-collapse collapse" aria-labelledby="heading6"
+                            data-bs-parent="#faq_accordion">
+                            <div class="accordion-body">
+                                <p>You may be interested in our Battery Ease electricity plan, available for eligible
+                                    battery owners in NSW. If you don’t have a battery, you may be eligible for our
+                                    Community Battery Ease electricity plan for both solar and non-solar customers
+                                    within eligible NSW postcodes. </p>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- FAQ Item End -->
+
+                    <!-- FAQ Item Start -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="heading7"><button class="accordion-button collapsed"
+                                type="button" data-bs-toggle="collapse" data-bs-target="#collapse7" aria-expanded="true"
+                                aria-controls="collapse7">Can I purchase solar for a property that is rented?</button>
+                        </h2>
+
+                        <div id="collapse7" class="accordion-collapse collapse" aria-labelledby="heading7"
+                            data-bs-parent="#faq_accordion">
+                            <div class="accordion-body">
+                                <p>You must have your landlord’s approval to install a solar system on the roof of
+                                    rented premises, as only the property owner has the right to assign STCs (see below)
+                                    to a third party such as EnergyAustralia. </p>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- FAQ Item End -->
+
+                    <!-- FAQ Item Start -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="heading8"><button class="accordion-button collapsed"
+                                type="button" data-bs-toggle="collapse" data-bs-target="#collapse8" aria-expanded="true"
+                                aria-controls="collapse8">How do I pay for my solar and battery?</button></h2>
+
+                        <div id="collapse8" class="accordion-collapse collapse" aria-labelledby="heading8"
+                            data-bs-parent="#faq_accordion">
+                            <div class="accordion-body">
+                                <p>Talk to us about payment options which can include upfront, or third-party finance.
+                                </p>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- FAQ Item End -->
+
+                    <!-- FAQ Item Start -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="heading9"><button class="accordion-button collapsed"
+                                type="button" data-bs-toggle="collapse" data-bs-target="#collapse9" aria-expanded="true"
+                                aria-controls="collapse9">What are your solar and battery warranties?</button></h2>
+
+                        <div id="collapse9" class="accordion-collapse collapse" aria-labelledby="heading9"
+                            data-bs-parent="#faq_accordion">
+                            <div class="accordion-body">
+                                <p>For our customised solar and battery solutions, we provide a minimum five-year
+                                    installation warranty. Our work is in accordance with required industry codes of
+                                    conduct, building codes and local government and legislative requirements. All
+                                    supplied systems, components and equipment comply with Australian Standards and come
+                                    with the following express warranties: </p>
+                                <ul>
+                                    <li>5 years installation warranty </li>
+                                    <li>5–10 year manufacturer inverter warranty</li>
+                                    <li>12–25 year manufacturer panel warranty (varies by panel model number)</li>
+                                    <li>10 year manufacturer battery performance warranty</li>
+                                    <li>25-year manufacturer panel performance warranty</li>
+                                </ul>
+                                <p>For details on Solar Home Bundle warranties</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- FAQ Item End -->
+
+                    <!-- FAQ Item Start -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="heading10"><button class="accordion-button collapsed"
+                                type="button" data-bs-toggle="collapse" data-bs-target="#collapse10"
+                                aria-expanded="true" aria-controls="collapse10">What happens on installation
+                                day?</button></h2>
+
+                        <div id="collapse10" class="accordion-collapse collapse" aria-labelledby="heading10"
+                            data-bs-parent="#faq_accordion">
+                            <div class="accordion-body">
+                                <p>The installer will prep your roof to ensure that the roof shingles and/or tiles are
+                                    properly attached and secure. They will then begin the process of setting up the
+                                    electrical wiring that will connect your panels to the general power system. The
+                                    installer may need to come into the home for wiring. Once wiring is complete, the
+                                    racking to support your panels will be attached to the roof. The racking will be the
+                                    only element that will be physically attached to the roof, and once these racks are
+                                    levelled and safely attached, solar panels will be placed on to the racks. The final
+                                    step is to connect the inverter(s) to the panels so they can convert the DC energy
+                                    generated by the panels to AC energy which is used to power home appliances.
+                                    Timeline for installation can vary from one to three days, depending on the size of
+                                    the system you are installing. </p>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- FAQ Item End -->
+
+                    <!-- FAQ Item Start -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="heading11"><button class="accordion-button collapsed"
+                                type="button" data-bs-toggle="collapse" data-bs-target="#collapse11"
+                                aria-expanded="true" aria-controls="collapse11"> If my energy requirements increase, can
+                                I upgrade the system?</button></h2>
+
+                        <div id="collapse11" class="accordion-collapse collapse" aria-labelledby="heading11"
+                            data-bs-parent="#faq_accordion">
+                            <div class="accordion-body">
+                                <p>Yes, it is possible to upgrade your solar power system if your energy requirements
+                                    increase. This may involve adding additional solar panels or replacing your existing
+                                    panels with more efficient ones. </p>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- FAQ Item End -->
+
+                    <!-- FAQ Item Start -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="heading12"><button class="accordion-button collapsed"
+                                type="button" data-bs-toggle="collapse" data-bs-target="#collapse12"
+                                aria-expanded="true" aria-controls="collapse12">What about the energy it takes to
+                                produce a solar power system?</button></h2>
+
+                        <div id="collapse12" class="accordion-collapse collapse" aria-labelledby="heading12"
+                            data-bs-parent="#faq_accordion">
+                            <div class="accordion-body">
+                                <p>It takes energy to produce a solar power system, but it will generally pay for itself
+                                    in terms of the energy it generates over its lifespan. Solar panels have a very low
+                                    environmental impact and do not produce any greenhouse gas emissions during
+                                    operation. </p>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- FAQ Item End -->
 
 
                 </div>
